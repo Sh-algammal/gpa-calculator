@@ -2,7 +2,7 @@
 
 مشروع تفاعلي لحساب المعدل التراكمي للطلاب مع مؤثرات بصرية ومرئيات جذابة بناءً على النتائج. يدعم إضافة مواد دراسية متعددة وحساب النسبة المئوية والدرجة النهائية تلقائيًا.
 
-![https://images.app.goo.gl/fmefBMtLP4kmnKwEA](https://images.app.goo.gl/fmefBMtLP4kmnKwEA)
+!https://images.app.goo.gl/fmefBMtLP4kmnKwEA
 
 ## ✨ المميزات
 - واجهة مستخدم عربية بسيطة.
